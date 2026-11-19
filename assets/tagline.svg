@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="44" viewBox="0 0 600 44" role="img" aria-label="I turn numbers into decisions, insights, stories.">
+<style>
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url(data:font/truetype;base64,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) format('truetype');
+}
+.t{font-family:Poppins,'Segoe UI',sans-serif;font-weight:500;font-size:17px;fill:#8B949E;white-space:pre}
+.p{animation:show .01s step-end both}
+@keyframes show{from{fill-opacity:0}to{fill-opacity:1}}
+.w0_0,.w0_1,.w0_2,.w0_3,.w0_4,.w0_5,.w0_6,.w0_7,.w0_8,.w0_9{fill-opacity:1}
+tspan[class^="w"]:not(.on){fill-opacity:0}
+@keyframes cin{0.000%{transform:translateX(176.77px)}28.750%{transform:translateX(181.27px)}32.500%{transform:translateX(185.68px)}36.250%{transform:translateX(192.01px)}40.000%{transform:translateX(203.05px)}43.750%{transform:translateX(209.58px)}47.500%{transform:translateX(220.60px)}51.250%{transform:translateX(225.02px)}55.000%{transform:translateX(236.06px)}58.750%{transform:translateX(247.09px)}62.500%{transform:translateX(264.76px)}66.250%{transform:translateX(276.29px)}70.000%{transform:translateX(286.77px)}73.750%{transform:translateX(293.30px)}77.500%{transform:translateX(302.38px)}81.250%{transform:translateX(306.80px)}85.000%{transform:translateX(311.29px)}88.750%{transform:translateX(322.31px)}92.500%{transform:translateX(328.64px)}96.250%{transform:translateX(339.48px)}100.000%{transform:translateX(343.91px)}}
+@keyframes cx{0.000%{transform:translateX(343.91px)}0.661%{transform:translateX(355.43px)}1.321%{transform:translateX(365.92px)}1.982%{transform:translateX(376.13px)}2.642%{transform:translateX(380.60px)}3.303%{transform:translateX(389.68px)}3.963%{transform:translateX(394.18px)}4.624%{transform:translateX(405.02px)}5.284%{transform:translateX(416.05px)}5.945%{transform:translateX(425.13px)}6.605%{transform:translateX(429.23px)}28.093%{transform:translateX(425.13px)}28.446%{transform:translateX(416.05px)}28.798%{transform:translateX(405.02px)}29.150%{transform:translateX(394.18px)}29.502%{transform:translateX(389.68px)}29.855%{transform:translateX(380.60px)}30.207%{transform:translateX(376.13px)}30.559%{transform:translateX(365.92px)}30.911%{transform:translateX(355.43px)}31.264%{transform:translateX(343.91px)}35.007%{transform:translateX(348.39px)}35.667%{transform:translateX(359.43px)}36.328%{transform:translateX(368.51px)}36.988%{transform:translateX(373.00px)}37.649%{transform:translateX(384.52px)}38.309%{transform:translateX(395.55px)}38.970%{transform:translateX(401.88px)}39.630%{transform:translateX(410.96px)}40.291%{transform:translateX(415.05px)}61.779%{transform:translateX(410.96px)}62.131%{transform:translateX(401.88px)}62.483%{transform:translateX(395.55px)}62.836%{transform:translateX(384.52px)}63.188%{transform:translateX(373.00px)}63.540%{transform:translateX(368.51px)}63.893%{transform:translateX(359.43px)}64.245%{transform:translateX(348.39px)}64.597%{transform:translateX(343.91px)}68.340%{transform:translateX(352.98px)}69.000%{transform:translateX(359.31px)}69.661%{transform:translateX(370.15px)}70.321%{transform:translateX(376.68px)}70.982%{transform:translateX(381.17px)}71.642%{transform:translateX(391.66px)}72.303%{transform:translateX(400.73px)}72.963%{transform:translateX(404.84px)}94.452%{transform:translateX(400.73px)}94.804%{transform:translateX(391.66px)}95.156%{transform:translateX(381.17px)}95.509%{transform:translateX(376.68px)}95.861%{transform:translateX(370.15px)}96.213%{transform:translateX(359.31px)}96.565%{transform:translateX(352.98px)}96.918%{transform:translateX(343.91px)}}
+@keyframes co{0.000%{opacity:1}11.449%{opacity:0}16.292%{opacity:1}21.136%{opacity:0}25.980%{opacity:1}45.134%{opacity:0}49.978%{opacity:1}54.822%{opacity:0}59.665%{opacity:1}77.807%{opacity:0}82.651%{opacity:1}87.494%{opacity:0}92.338%{opacity:1}}
+.cur{transform:translateX(429.23px);animation:cin 2.000s step-end both,cx 11.355s step-end 2.000s infinite}
+.cb{animation:co 11.355s step-end 2.000s infinite}
+@keyframes a0_0{0.000%{fill-opacity:0}0.661%{fill-opacity:1}31.264%{fill-opacity:0}}
+.w0_0{animation:a0_0 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_1{0.000%{fill-opacity:0}1.321%{fill-opacity:1}30.911%{fill-opacity:0}}
+.w0_1{animation:a0_1 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_2{0.000%{fill-opacity:0}1.982%{fill-opacity:1}30.559%{fill-opacity:0}}
+.w0_2{animation:a0_2 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_3{0.000%{fill-opacity:0}2.642%{fill-opacity:1}30.207%{fill-opacity:0}}
+.w0_3{animation:a0_3 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_4{0.000%{fill-opacity:0}3.303%{fill-opacity:1}29.855%{fill-opacity:0}}
+.w0_4{animation:a0_4 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_5{0.000%{fill-opacity:0}3.963%{fill-opacity:1}29.502%{fill-opacity:0}}
+.w0_5{animation:a0_5 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_6{0.000%{fill-opacity:0}4.624%{fill-opacity:1}29.150%{fill-opacity:0}}
+.w0_6{animation:a0_6 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_7{0.000%{fill-opacity:0}5.284%{fill-opacity:1}28.798%{fill-opacity:0}}
+.w0_7{animation:a0_7 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_8{0.000%{fill-opacity:0}5.945%{fill-opacity:1}28.446%{fill-opacity:0}}
+.w0_8{animation:a0_8 11.355s step-end 2.000s infinite backwards}
+@keyframes a0_9{0.000%{fill-opacity:0}6.605%{fill-opacity:1}28.093%{fill-opacity:0}}
+.w0_9{animation:a0_9 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_0{0.000%{fill-opacity:0}35.007%{fill-opacity:1}64.597%{fill-opacity:0}}
+.w1_0{animation:a1_0 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_1{0.000%{fill-opacity:0}35.667%{fill-opacity:1}64.245%{fill-opacity:0}}
+.w1_1{animation:a1_1 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_2{0.000%{fill-opacity:0}36.328%{fill-opacity:1}63.893%{fill-opacity:0}}
+.w1_2{animation:a1_2 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_3{0.000%{fill-opacity:0}36.988%{fill-opacity:1}63.540%{fill-opacity:0}}
+.w1_3{animation:a1_3 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_4{0.000%{fill-opacity:0}37.649%{fill-opacity:1}63.188%{fill-opacity:0}}
+.w1_4{animation:a1_4 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_5{0.000%{fill-opacity:0}38.309%{fill-opacity:1}62.836%{fill-opacity:0}}
+.w1_5{animation:a1_5 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_6{0.000%{fill-opacity:0}38.970%{fill-opacity:1}62.483%{fill-opacity:0}}
+.w1_6{animation:a1_6 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_7{0.000%{fill-opacity:0}39.630%{fill-opacity:1}62.131%{fill-opacity:0}}
+.w1_7{animation:a1_7 11.355s step-end 2.000s infinite backwards}
+@keyframes a1_8{0.000%{fill-opacity:0}40.291%{fill-opacity:1}61.779%{fill-opacity:0}}
+.w1_8{animation:a1_8 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_0{0.000%{fill-opacity:0}68.340%{fill-opacity:1}96.918%{fill-opacity:0}}
+.w2_0{animation:a2_0 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_1{0.000%{fill-opacity:0}69.000%{fill-opacity:1}96.565%{fill-opacity:0}}
+.w2_1{animation:a2_1 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_2{0.000%{fill-opacity:0}69.661%{fill-opacity:1}96.213%{fill-opacity:0}}
+.w2_2{animation:a2_2 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_3{0.000%{fill-opacity:0}70.321%{fill-opacity:1}95.861%{fill-opacity:0}}
+.w2_3{animation:a2_3 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_4{0.000%{fill-opacity:0}70.982%{fill-opacity:1}95.509%{fill-opacity:0}}
+.w2_4{animation:a2_4 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_5{0.000%{fill-opacity:0}71.642%{fill-opacity:1}95.156%{fill-opacity:0}}
+.w2_5{animation:a2_5 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_6{0.000%{fill-opacity:0}72.303%{fill-opacity:1}94.804%{fill-opacity:0}}
+.w2_6{animation:a2_6 11.355s step-end 2.000s infinite backwards}
+@keyframes a2_7{0.000%{fill-opacity:0}72.963%{fill-opacity:1}94.452%{fill-opacity:0}}
+.w2_7{animation:a2_7 11.355s step-end 2.000s infinite backwards}
+</style>
+<text x="173.774" y="35" class="t"><tspan class="p" style="animation-delay:0.575s">I</tspan><tspan class="p" style="animation-delay:0.650s"> </tspan><tspan class="p" style="animation-delay:0.725s">t</tspan><tspan class="p" style="animation-delay:0.800s">u</tspan><tspan class="p" style="animation-delay:0.875s">r</tspan><tspan class="p" style="animation-delay:0.950s">n</tspan><tspan class="p" style="animation-delay:1.025s"> </tspan><tspan class="p" style="animation-delay:1.100s">n</tspan><tspan class="p" style="animation-delay:1.175s">u</tspan><tspan class="p" style="animation-delay:1.250s">m</tspan><tspan class="p" style="animation-delay:1.325s">b</tspan><tspan class="p" style="animation-delay:1.400s">e</tspan><tspan class="p" style="animation-delay:1.475s">r</tspan><tspan class="p" style="animation-delay:1.550s">s</tspan><tspan class="p" style="animation-delay:1.625s"> </tspan><tspan class="p" style="animation-delay:1.700s">i</tspan><tspan class="p" style="animation-delay:1.775s">n</tspan><tspan class="p" style="animation-delay:1.850s">t</tspan><tspan class="p" style="animation-delay:1.925s">o</tspan><tspan class="p" style="animation-delay:2.000s"> </tspan></text>
+<text x="340.912" y="35" class="t"><tspan class="w0_0 on">d</tspan><tspan class="w0_1 on">e</tspan><tspan class="w0_2 on">c</tspan><tspan class="w0_3 on">i</tspan><tspan class="w0_4 on">s</tspan><tspan class="w0_5 on">i</tspan><tspan class="w0_6 on">o</tspan><tspan class="w0_7 on">n</tspan><tspan class="w0_8 on">s</tspan><tspan class="w0_9 on">.</tspan></text>
+<text x="340.912" y="35" class="t"><tspan class="w1_0">i</tspan><tspan class="w1_1">n</tspan><tspan class="w1_2">s</tspan><tspan class="w1_3">i</tspan><tspan class="w1_4">g</tspan><tspan class="w1_5">h</tspan><tspan class="w1_6">t</tspan><tspan class="w1_7">s</tspan><tspan class="w1_8">.</tspan></text>
+<text x="340.912" y="35" class="t"><tspan class="w2_0">s</tspan><tspan class="w2_1">t</tspan><tspan class="w2_2">o</tspan><tspan class="w2_3">r</tspan><tspan class="w2_4">i</tspan><tspan class="w2_5">e</tspan><tspan class="w2_6">s</tspan><tspan class="w2_7">.</tspan></text>
+<g class="cur"><rect class="cb" x="0" y="22" width="2" height="16" rx="1" fill="#4A9AF5"/></g>
+</svg>

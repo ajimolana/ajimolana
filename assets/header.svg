@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Maulana Raji. Actuarial and Data Science.">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B949E"/><stop offset="1" stop-color="#E6EDF3"/>
+    </linearGradient>
+    <linearGradient id="areaGrad" x1="0" y1="239" x2="0" y2="350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E6EDF3" stop-opacity="0.09"/><stop offset="1" stop-color="#E6EDF3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bandGrad" x1="900" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4A9AF5" stop-opacity="0.24"/><stop offset="1" stop-color="#4A9AF5" stop-opacity="0.08"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="0.55" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117" stop-opacity="0.9"/>
+    </radialGradient>
+    <filter id="glow" x="-5%" y="-50%" width="110%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="dotGlow" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="4"/></filter>
+    <mask id="fcMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="340">
+      <path class="drawfc" pathLength="1" d="M900 269 C970 258.5 1100 247 1200 239" fill="none" stroke="#fff" stroke-width="90"/>
+    </mask>
+    <clipPath id="areaSweep" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="0" height="340">
+        <animate attributeName="width" values="0;900;1200" keyTimes="0;0.6667;1" dur="3s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+    <style>
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url(data:font/truetype;base64,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) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url(data:font/truetype;base64,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) format('truetype');
+}
+      .sans { font-family: 'Poppins', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .fade-in { animation: up 0.9s ease-out both; }
+      .d1 { animation-delay: 0.15s; } .d2 { animation-delay: 0.45s; }
+      @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .draw { stroke-dasharray: 1; animation: draw 2.0s linear 0.3s both; }
+      @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+      .drawfc { stroke-dasharray: 1; animation: draw 1.0s linear 2.3s both; }
+      @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes pop { from { opacity: 0; transform: scale(.3); } to { opacity: 1; transform: scale(1); } }
+      .pulse { transform-box: fill-box; transform-origin: center; opacity: 0;
+                animation: pulse 3.5s ease-out 3.3s infinite backwards; }
+      .flow { animation: flow 1.4s linear 3.3s infinite; }
+      @keyframes flow { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -13; } }
+      .breathe { animation: breathe 3.5s ease-in-out 3.3s infinite backwards; }
+      @keyframes breathe { 0%, 100% { opacity: .5; } 40% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .breathe { animation: none; } }
+      @keyframes pulse { 0% { opacity: 0; transform: scale(1); } 15% { opacity: .65; transform: scale(1.5); } 100% { opacity: 0; transform: scale(3.4); } }
+      .p1{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 0.52s both}.p2{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 0.74s both}.p3{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 0.97s both}.p4{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 1.19s both}.p5{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 1.41s both}.p6{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 1.63s both}.p7{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 1.86s both}.p8{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 2.08s both}.p9{transform-box:fill-box;transform-origin:center;animation:pop .25s ease-out 2.30s both}
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#0D1117"/>
+    <line x1="0" y1="40" x2="1200" y2="40" stroke="#fff" stroke-opacity="0.045"/><line x1="0" y1="90" x2="1200" y2="90" stroke="#fff" stroke-opacity="0.045"/><line x1="0" y1="140" x2="1200" y2="140" stroke="#fff" stroke-opacity="0.045"/><line x1="0" y1="190" x2="1200" y2="190" stroke="#fff" stroke-opacity="0.045"/><line x1="0" y1="240" x2="1200" y2="240" stroke="#fff" stroke-opacity="0.045"/><line x1="0" y1="290" x2="1200" y2="290" stroke="#fff" stroke-opacity="0.045"/><line x1="100" y1="0" x2="100" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="200" y1="0" x2="200" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="300" y1="0" x2="300" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="400" y1="0" x2="400" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="500" y1="0" x2="500" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="600" y1="0" x2="600" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="700" y1="0" x2="700" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="800" y1="0" x2="800" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="900" y1="0" x2="900" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="1000" y1="0" x2="1000" y2="340" stroke="#fff" stroke-opacity="0.025"/><line x1="1100" y1="0" x2="1100" y2="340" stroke="#fff" stroke-opacity="0.025"/>
+    <path clip-path="url(#areaSweep)" d="M0 318 L100 310 L200 315 L300 299 L400 304 L500 289 L600 295 L700 278 L800 284 L900 269 C970 258.5 1100 247 1200 239 L1200 340 L0 340 Z" fill="url(#areaGrad)"/>
+    <g mask="url(#fcMask)">
+      <path class="breathe" d="M900.0 269.0 L905.4 267.7 L910.9 266.5 L916.7 265.2 L922.7 263.9 L928.9 262.5 L935.2 261.2 L941.8 259.8 L948.5 258.4 L955.3 257.0 L962.3 255.6 L969.5 254.2 L976.8 252.7 L984.2 251.3 L991.7 249.9 L999.3 248.4 L1007.0 246.9 L1014.9 245.5 L1022.7 244.0 L1030.7 242.5 L1038.8 241.0 L1046.8 239.6 L1055.0 238.1 L1063.2 236.6 L1071.4 235.1 L1079.6 233.7 L1087.8 232.2 L1096.1 230.8 L1104.3 229.3 L1112.6 227.9 L1120.8 226.5 L1129.0 225.0 L1137.1 223.6 L1145.2 222.2 L1153.3 220.9 L1161.3 219.5 L1169.2 218.2 L1177.0 216.8 L1184.8 215.5 L1192.4 214.3 L1200.0 213.0 L1200.0 265.0 L1192.4 265.0 L1184.8 264.9 L1177.0 264.9 L1169.2 264.8 L1161.3 264.8 L1153.3 264.8 L1145.2 264.8 L1137.1 264.7 L1129.0 264.7 L1120.8 264.7 L1112.6 264.7 L1104.3 264.7 L1096.1 264.7 L1087.8 264.8 L1079.6 264.8 L1071.4 264.8 L1063.2 264.9 L1055.0 264.9 L1046.8 265.0 L1038.8 265.1 L1030.7 265.2 L1022.7 265.3 L1014.9 265.4 L1007.0 265.5 L999.3 265.6 L991.7 265.7 L984.2 265.9 L976.8 266.1 L969.5 266.2 L962.3 266.4 L955.3 266.6 L948.5 266.8 L941.8 267.0 L935.2 267.3 L928.9 267.5 L922.7 267.8 L916.7 268.1 L910.9 268.4 L905.4 268.7 L900.0 269.0 Z" fill="url(#bandGrad)"/>
+      <path class="flow" d="M900 269 C970 258.5 1100 247 1200 239" fill="none" stroke="#4A9AF5" stroke-width="2.5" stroke-dasharray="7 6" stroke-linecap="round"/>
+      <circle cx="999.3" cy="257.0" r="3.5" fill="#0D1117" stroke="#4A9AF5" stroke-width="2"/><circle cx="1096.1" cy="247.8" r="3.5" fill="#0D1117" stroke="#4A9AF5" stroke-width="2"/>
+    </g>
+    <path class="draw" pathLength="1" d="M0 318 L100 310 L200 315 L300 299 L400 304 L500 289 L600 295 L700 278 L800 284 L900 269" fill="none" stroke="#E6EDF3" stroke-width="6" stroke-opacity="0.18" stroke-linejoin="round" filter="url(#glow)"/>
+    <path class="draw" pathLength="1" d="M0 318 L100 310 L200 315 L300 299 L400 304 L500 289 L600 295 L700 278 L800 284 L900 269" fill="none" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linejoin="round"/>
+    <g opacity="0">
+      <circle r="8" fill="#4A9AF5" fill-opacity="0.45" filter="url(#dotGlow)"/>
+      <circle r="2.6" fill="#BFDBFE"/>
+      <animateMotion path="M900 269 C970 258.5 1100 247 1200 239" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.5 0 0.8 1" dur="3.5s" begin="3.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.75;1" dur="3.5s" begin="3.3s" repeatCount="indefinite"/>
+    </g>
+    <circle class="pulse" cx="900" cy="269" r="5.5" fill="none" stroke="#4A9AF5" stroke-width="2"/>
+    <circle class="p1" cx="100" cy="310" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p2" cx="200" cy="315" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p3" cx="300" cy="299" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p4" cx="400" cy="304" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p5" cx="500" cy="289" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p6" cx="600" cy="295" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p7" cx="700" cy="278" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p8" cx="800" cy="284" r="4.5" fill="#0D1117" stroke="#C9D1D9" stroke-width="2.5"/><circle class="p9" cx="900" cy="269" r="5.5" fill="#0D1117" stroke="#4A9AF5" stroke-width="2.5"/>
+    <rect width="1200" height="340" fill="url(#vignette)"/>
+  </g>
+  <text class="sans fade-in d1" x="600" y="140" text-anchor="middle" dominant-baseline="middle" font-size="86" font-weight="700" letter-spacing="10" fill="#ffffff">MAULANA RAJI</text>
+  <text class="sans fade-in d2" x="600" y="210" text-anchor="middle" dominant-baseline="middle" font-size="26" font-weight="500" letter-spacing="1" fill="#8b8b8b">Actuarial &amp; Data Science</text>
+</svg>
